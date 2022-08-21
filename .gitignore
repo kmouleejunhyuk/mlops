@@ -133,3 +133,4 @@ dmypy.json
 .yaml
 .taml
 .JPEG
+/preprocessed_data
